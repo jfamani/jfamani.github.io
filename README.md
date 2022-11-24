@@ -1,8 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-   </head>
-
-  <body>
-   </body>
+<html>
+<body>
+<p>This is just a demonstration.</p>
+</body>
 </html>
